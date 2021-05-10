@@ -6,3 +6,4 @@ red
 yellow
 blue
 indigo
+i love rainbows
